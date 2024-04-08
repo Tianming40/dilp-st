@@ -3,4 +3,4 @@ numpy
 lark-parser
 seaborn
 tqdm
-sklearn
+scikit-learn
